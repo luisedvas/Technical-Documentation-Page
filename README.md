@@ -13,55 +13,42 @@ Build an app that is functionally similar to the exercise
           <nav>
         </header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
-      
       <section class="main-section">
         <header></header>
       </section>
