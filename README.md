@@ -3,11 +3,11 @@ Build an app that is functionally similar to the exercise
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <meta charset="utf-8">
+    <lin rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
-    <nav id="nav-bar">
+    <nav id="navbar">
       <header>
         JS Documentation
       </header>
@@ -174,6 +174,13 @@ statement_4_runs_if_condition_is_false; }</code>
       </section>
       <section class="main-section" id="Reference">
         <header>Reference</header>
+        <article>
+          <ul>
+            <li>
+              All the documentation in this page is taken from <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank">MDN</a>
+            </li>
+          </ul>
+        </article>
       </section>
     </main>
   </body>
